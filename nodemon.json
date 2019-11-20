@@ -1,0 +1,12 @@
+{
+  "env":{
+    "MONGO_PWD": "adE0GlBOFaFfca9p@cluster0-zkt2n",
+    "JWT_SECRET":"ajsdg3244235kjh343hj245g34j2gjhg34"
+  }
+}
+{
+  "env": {
+    "MONGO_PWD": "adE0GlBOFaFfca9p@cluster0-zkt2n",
+    "JWT_SECRET": "ajsdg3244235kjh343hj245g34j2gjhg34"
+  }
+}
