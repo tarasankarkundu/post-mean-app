@@ -1,3 +1,7 @@
+# Application URL 
+FrontEnd : http://post-mean-app.s3-website.us-east-2.amazonaws.com/
+Backend: http://postapp-env.puatd7gbr5.us-east-2.elasticbeanstalk.com/  (/api/posts) 
+
 # MeanApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.7.
